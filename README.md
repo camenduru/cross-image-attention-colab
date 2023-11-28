@@ -21,4 +21,6 @@ https://arxiv.org/abs/2311.03335
 https://garibida.github.io/cross-image-attention/
 
 ## Output
+![Screenshot 2023-11-28 205322](https://github.com/camenduru/cross-image-attention-colab/assets/54370274/7a135b80-61fc-4a4b-8c6d-86c8a2eb8c01)
+
 ![Screenshot 2023-11-28 204501](https://github.com/camenduru/cross-image-attention-colab/assets/54370274/11602efd-446f-4edd-9e4b-60f0ec7654c8)
