@@ -8,7 +8,7 @@
 
 | Colab | Info
 | --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/cross-image-attention-colab/blob/main/MVDream_colab.ipynb) | cross_image_attention_colab
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/cross-image-attention-colab/blob/main/cross_image_attention_colab.ipynb) | cross_image_attention_colab
 
 ## Main Repo
 https://github.com/garibida/cross-image-attention
